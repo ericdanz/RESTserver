@@ -1,3 +1,7 @@
+#python compiled files
+*.pyc
+*.py~
+
 # Compiled Object files
 *.slo
 *.lo
