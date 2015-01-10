@@ -1,4 +1,4 @@
-initial_cad
+REST SERVER
 ===========
 
-Assignment 1 CAD files
+Simple RESTful server with NGINX, uWSGI, and flask
