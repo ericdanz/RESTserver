@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+#Virtual Env
+.python
+bin
+lib
+include
